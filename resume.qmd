@@ -1,91 +1,94 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dallas Walker's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Dallas Walker
+Problem-solver, Developer, and Statistician.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
+<a href="mailto:dallaswalker1023@gmail.com">dallaswalker1023@gmail.com</a>
+| <a href="https://linkedin.com/in/dallas-walker">linkedin.com/in/dallas-walker</a>
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
-
 ## Currently
 
-Standing on the shoulders of giants
+[cite_start]Leveraging mathematical and programmatic tools for AI development[cite: 33].
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+[cite_start]C#, Prompt Engineering, AI-driven automation, and Statistical Analysis[cite: 33, 41, 42].
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+[cite_start]Machine Learning (ML.NET), Star Classification systems, Data Pipelines, and Multidisciplinary Problem Solving[cite: 33, 54, 55].
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`December 2029 (Expected)`
+[cite_start]__Brigham Young University - Idaho__ [cite: 4]
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- [cite_start]BS in Science (Computer Science & Advanced Statistics focus) [cite: 2, 33]
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2022`
+[cite_start]__CTE Presidential Scholar__ [cite: 61]
 
-Associate, *French Academy of Science*, Paris, France
+[cite_start]__Eagle Scout Award Recipient__ [cite: 61]
+
+[cite_start]__Full Tuition Academic Scholarship__ [cite: 61]
+
+[cite_start]__TestOut PC Prep Certificate__ [cite: 61]
 
 
+## Side Projects
 
-## Publications
+### Star Identifier
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`December 2025`
+[cite_start]__BYU Idaho__ [cite: 47, 49, 52]
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- [cite_start]Engineered a hybrid classification system in C# to categorize stars based on luminosity, temperature, and absolute magnitude[cite: 54].
+- [cite_start]Achieved high precision through a combined physics-rule and AI approach using ML.NET[cite: 54, 55].
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`January 2023 - Present`
+[cite_start]__Teacher Assistant__, BYU-Idaho [cite: 6, 7, 12]
 
-- Warden
-- Minted coins
+- [cite_start]Implemented AI-driven grading tools, resulting in a 40% reduction in grading time[cite: 13, 14].
+- [cite_start]Synthesized student responses to provide faculty with real-time insight into engagement[cite: 16].
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`January 2022 - December 2023`
+[cite_start]__Instructor__, Mathnasium [cite: 17, 18, 19]
+
+- [cite_start]Increased conceptual understanding for 50+ students (ages 6-18) through individualized plans[cite: 21].
+- [cite_start]Fostered collaborative environments among instructors to improve consistency[cite: 22].
+
+`June 2022 - July 2022`
+[cite_start]__Team Leader__, STAR Camp [cite: 57, 58]
+
+- [cite_start]Developed and implemented hands-on science curriculum centered on rocket building for 60-90 campers[cite: 59].
+- [cite_start]Maintained a zero-incident record during high-risk activities like rocket launches[cite: 60].
+
+`January 2019 - December 2022`
+[cite_start]__Manufacturer__, ISignCo [cite: 23, 24, 25]
+
+- [cite_start]Assembled complex electrical sign components and managed strict production deadlines[cite: 26].
+
+`January 2021 - December 2022`
+[cite_start]__Cashier & Sales Representative__, Arctic Circle [cite: 27, 28, 29]
+
+- [cite_start]Increased peak-time efficiency by 75% while ensuring 100% accuracy in till reconciliation[cite: 30, 31].
 
 
+## Skills & Societies
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+* **Technical:** Proficient in C# and Prompt Engineering; Medium in R and OOP; [cite_start]Beginner in Python, SQL, Polars, and ML.NET[cite: 38, 39, 40, 41, 42].
+* [cite_start]**Languages:** Cantonese[cite: 44].
+* [cite_start]**Societies:** Computer Society (Vice President), AI Society, IEEE[cite: 63, 65, 66].
